@@ -1,0 +1,28 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background-color: #39546a;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.move {
+  background-image: url("https://github.com/m-soro/Save_The_Universe/blob/main/images/space_hero.gif?raw=true");
+}
+
+.fire {
+  background-color: orange;
+}
+
+.box13,
+.box14,
+.box15,
+.box16 {
+  /**/
+}
